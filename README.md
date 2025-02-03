@@ -1,2 +1,2 @@
 # US-Household-Income-SQL-Project
-SQL project showcasing US Household income trends
+SQL project analyzing household income in the US.
